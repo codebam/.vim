@@ -18,6 +18,7 @@ set laststatus=2
 set nojoinspaces
 set display+=lastline
 set noequalalways " makes split's split 50% of the current split
+
 syntax on
 let g:lightline = {
       \ 'colorscheme': 'wombat',
@@ -36,3 +37,14 @@ set cursorline
 
 set splitbelow
 set splitright
+
+if has("persistent_undo")
+    set undodir=~/.vim_tmp/undo/
+    set undofile
+endif
+set directory^=~/.vim_tmp/tmp
+set backupdir^=~/.vim_tmp/tmp
+set ttyfast
+set lazyredraw
+set nofsync
+" these should fix slow editing over sshfs
