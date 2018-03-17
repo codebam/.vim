@@ -2,7 +2,7 @@
 	path = pack/packages/start/Apprentice
 	url = https://github.com/romainl/Apprentice.git
 [submodule "pack/packages/start/vim-tags"]
-	path = pack/packages/optional/vim-tags
+	path = pack/packages/opt/vim-tags
 	url = https://github.com/szw/vim-tags.git
 [submodule "pack/packages/start/gruvbox"]
 	path = pack/packages/start/gruvbox
@@ -14,7 +14,7 @@
 	path = pack/packages/start/vim-table-mode
 	url = https://github.com/dhruvasagar/vim-table-mode.git
 [submodule "pack/packages/start/ale"]
-	path = pack/packages/optional/ale
+	path = pack/packages/opt/ale
 	url = https://github.com/w0rp/ale.git
 [submodule "pack/packages/start/lightline.vim"]
 	path = pack/packages/start/lightline.vim
@@ -23,7 +23,7 @@
 	path = pack/packages/start/vim-highlightedyank
 	url = https://github.com/machakann/vim-highlightedyank.git
 [submodule "pack/packages/start/vim-orgmode"]
-	path = pack/packages/optional/vim-orgmode
+	path = pack/packages/opt/vim-orgmode
 	url = https://github.com/jceb/vim-orgmode.git
 [submodule "pack/packages/start/vim-speeddating"]
 	path = pack/packages/start/vim-speeddating
@@ -31,6 +31,6 @@
 [submodule "pack/packages/start/undotree"]
 	path = pack/packages/start/undotree
 	url = https://github.com/mbbill/undotree.git
-[submodule "pack/packages/optional/YouCompleteMe"]
-	path = pack/packages/optional/YouCompleteMe
+[submodule "pack/packages/opt/YouCompleteMe"]
+	path = pack/packages/opt/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
