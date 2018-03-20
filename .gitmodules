@@ -1,36 +1,63 @@
 [submodule "pack/packages/start/Apprentice"]
-	path = pack/packages/start/Apprentice
+	path = pack/packages/opt/Apprentice
 	url = https://github.com/romainl/Apprentice.git
 [submodule "pack/packages/start/vim-tags"]
 	path = pack/packages/opt/vim-tags
 	url = https://github.com/szw/vim-tags.git
 [submodule "pack/packages/start/gruvbox"]
-	path = pack/packages/start/gruvbox
+	path = pack/packages/opt/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "pack/packages/start/markdown-preview.vim"]
-	path = pack/packages/start/markdown-preview.vim
+	path = pack/packages/opt/markdown-preview.vim
 	url = https://github.com/iamcco/markdown-preview.vim.git
 [submodule "pack/packages/start/vim-table-mode"]
-	path = pack/packages/start/vim-table-mode
+	path = pack/packages/opt/vim-table-mode
 	url = https://github.com/dhruvasagar/vim-table-mode.git
 [submodule "pack/packages/start/ale"]
 	path = pack/packages/opt/ale
 	url = https://github.com/w0rp/ale.git
 [submodule "pack/packages/start/lightline.vim"]
-	path = pack/packages/start/lightline.vim
+	path = pack/packages/opt/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
 [submodule "pack/packages/start/vim-highlightedyank"]
 	path = pack/packages/start/vim-highlightedyank
 	url = https://github.com/machakann/vim-highlightedyank.git
-[submodule "pack/packages/start/vim-orgmode"]
-	path = pack/packages/opt/vim-orgmode
-	url = https://github.com/jceb/vim-orgmode.git
 [submodule "pack/packages/start/vim-speeddating"]
-	path = pack/packages/start/vim-speeddating
+	path = pack/packages/opt/vim-speeddating
 	url = https://github.com/tpope/vim-speeddating.git
 [submodule "pack/packages/start/undotree"]
-	path = pack/packages/start/undotree
+	path = pack/packages/opt/undotree
 	url = https://github.com/mbbill/undotree.git
 [submodule "pack/packages/opt/YouCompleteMe"]
 	path = pack/packages/opt/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "pack/packages/opt/--force"]
+	path = pack/packages/opt/--force
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "pack/packages/start/vim-sneak"]
+	path = pack/packages/start/vim-sneak
+	url = https://github.com/justinmk/vim-sneak.git
+[submodule "pack/packages/start/vim-repeat"]
+	path = pack/packages/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/packages/start/vim-surround"]
+	path = pack/packages/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/packages/start/vim-commentary"]
+	path = pack/packages/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/packages/start/VimCompletesMe"]
+	path = pack/packages/start/VimCompletesMe
+	url = https://github.com/ajh17/VimCompletesMe.git
+[submodule "pack/packages/opt/base16-vim"]
+	path = pack/packages/opt/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "pack/packages/opt/vim-kolor"]
+	path = pack/packages/opt/vim-kolor
+	url = https://github.com/zeis/vim-kolor
+[submodule "pack/packages/opt/jellybeans.vim"]
+	path = pack/packages/opt/jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "pack/packages/opt/vim-one"]
+	path = pack/packages/opt/vim-one
+	url = https://github.com/rakr/vim-one.git
