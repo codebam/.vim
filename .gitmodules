@@ -61,3 +61,12 @@
 [submodule "pack/packages/opt/vim-one"]
 	path = pack/packages/opt/vim-one
 	url = https://github.com/rakr/vim-one.git
+[submodule "pack/packages/start/vim-snippets"]
+	path = pack/packages/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "pack/packages/start/UltiSnips"]
+	path = pack/packages/start/UltiSnips
+	url = https://github.com/sirver/UltiSnips.git
+[submodule "pack/packages/start/ultisnips"]
+	path = pack/packages/opt/ultisnips
+	url = https://github.com/sirver/UltiSnips.git
