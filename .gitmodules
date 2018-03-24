@@ -17,7 +17,7 @@
 	path = pack/packages/opt/ale
 	url = https://github.com/w0rp/ale.git
 [submodule "pack/packages/start/lightline.vim"]
-	path = pack/packages/opt/lightline.vim
+	path = pack/packages/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
 [submodule "pack/packages/start/vim-highlightedyank"]
 	path = pack/packages/start/vim-highlightedyank
